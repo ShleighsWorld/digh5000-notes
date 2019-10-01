@@ -6,6 +6,8 @@ Get a reference manager now
 
 The tech stuff will come when you want to analyze a problem
 
+Notes from Shawn can be found here: http://j.mp/dhcu-notes
+
 *DH Hype Cycle*
 
 2006: DH first coined
