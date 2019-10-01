@@ -68,7 +68,9 @@ Grab…: how the quote is actually pulled
 *This is italics*
 
 Top 3 topics: Social Media, Multimodality, Text Analysis
+
 December 3: Reschedule class
+
 My topic: Social Media
 
 # When will it be done?
